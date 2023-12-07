@@ -1,7 +1,6 @@
 # Cohere-and-Pinecone
 
 ![image](https://github.com/KamranUmer/Cohere-and-Pinecone/assets/86089489/a8edded3-6681-4fd8-89c6-f7014512444d)
-
 ## Cohere AI's LLM for Semantic Search with Pinecone
 Welcome to the GitHub repository for Cohere AI's Large Language Model (LLM) integrated with Semantic Search using Pinecone vector database. This project combines the power of Cohere AI's language understanding capabilities with Pinecone's efficient vector database to create a robust system for semantic search.
 
