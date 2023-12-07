@@ -1,6 +1,7 @@
 # Cohere-and-Pinecone
 
-![image](https://github.com/KamranUmer/Cohere-and-Pinecone/assets/86089489/d34f67bd-5998-446b-a2f9-b5e7ffc0bcf7)
+![image](https://github.com/KamranUmer/Cohere-and-Pinecone/assets/86089489/a8edded3-6681-4fd8-89c6-f7014512444d)
+
 
 
 
